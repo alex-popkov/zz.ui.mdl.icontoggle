@@ -1,6 +1,6 @@
 {
 	"name": "zz.ui.mdl.icontoggle",
-	"version": "20160427.0.2",
+	"version": "20160427.0.3",
 	"description": "module icontoggle for zz project",
 	"author": {
 		"name": "Popkov Alexander",
@@ -18,8 +18,7 @@
 	"dependencies": {
 
 	    "imazzine-developer-kit": "",
-		"zz.ui.mdl.ripple": "",
-		"zz.ui.mdl.checkbox": "",
-		"zz.ui.mdl": ""
+		"zz.ui.mdl": "",
+		"zz.ui.mdl.ripple": ""
 	}
 }
